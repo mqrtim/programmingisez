@@ -1,0 +1,49 @@
+p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.first_name{
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border-color: rgb(200, 200, 200);
+    border-style: solid;
+    height: 40px;
+    padding-left: 10px;
+   
+}
+.last_name{
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border-color: rgb(200, 200, 200);
+    border-style: solid;
+    height: 40px;
+    padding-left: 10px;
+   
+}
+.email{
+    display: block;
+    width: 358px;
+    height: 40px;
+    padding-left: 10px;
+    border-radius: 10px;
+    border-color: rgb(200, 200, 200);
+    border-style: solid;
+
+}
+.but_signup:hover {
+    cursor: pointer;
+    opacity: 0.8;
+}
+.but_signup:active{
+    opacity: 0.5;
+}
+.but_signup{
+    margin-top: 10px;
+    background-color: rgb(47, 127, 231);
+    color:white;
+    border: 0px;
+    width: 371px;
+    height: 40px;
+    font-weight: bold;
+    border-radius: 10px;
+}
